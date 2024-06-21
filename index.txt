@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Support Sarah Goldsmith - FLARE 2024 Finalist">
+    <meta property="og:description" content="Vote for Sarah Goldsmith in the FLARE 2024 competition! Your support is crucial.">
+    <meta property="og:image" content="https://drive.google.com/uc?export=view&id=1_SmConqEXhF5F9MWj9R9cRWEOOlOhAKS">
+    <meta property="og:url" content="https://www.herts.ac.uk/life/supporting-your-career/flare/2024-finalists">
+    <title>Support Sarah Goldsmith - FLARE 2024 Finalist</title>
+</head>
+<body>
+    <h1>Support Sarah Goldsmith - FLARE 2024 Finalist</h1>
+    <p>Vote for Sarah Goldsmith in the FLARE 2024 competition! Your support is crucial.</p>
+    <img src="https://drive.google.com/uc?export=view&id=1_SmConqEXhF5F9MWj9R9cRWEOOlOhAKS" alt="Sarah Goldsmith">
+</body>
+</html>
